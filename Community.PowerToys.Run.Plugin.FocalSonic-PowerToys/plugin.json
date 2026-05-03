@@ -1,0 +1,14 @@
+{
+  "ID": "5ABA5ED07EED4BDBBB4ADEE69DC45F89",
+  "ActionKeyword": "focalsonic_powertoys",
+  "IsGlobal": false,
+  "Name": "FocalSonic_PowerToys",
+  "Author": "hlaueriksson",
+  "Version": "0.96.1",
+  "Language": "csharp",
+  "Website": "https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.FocalSonic_PowerToys",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.FocalSonic_PowerToys.dll",
+  "IcoPathDark": "Images\\focalsonic_powertoys.dark.png",
+  "IcoPathLight": "Images\\focalsonic_powertoys.light.png",
+  "DynamicLoading": false
+}
